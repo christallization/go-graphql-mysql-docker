@@ -1,4 +1,4 @@
-# go-graphql-crud
+# go-graphql-mysql-docker
 This a simple Go CRUD example using GraphQL
 
 
